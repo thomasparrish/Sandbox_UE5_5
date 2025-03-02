@@ -1,2 +1,2 @@
-# Sandbox-UE5.5
+# Sandbox_UE5_5
 Test environment for whatever the hell
